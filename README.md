@@ -1,5 +1,7 @@
 # React Natively
 
+Projects that use React Native to tell the story of humanity. Here we'll capture how humans interact with each other using technology.
+
 ## UhCounter
 
 We're creating a simple app to allow iOS &amp; Android users the ability to count how many times they here the word "Uh" or "Um".
