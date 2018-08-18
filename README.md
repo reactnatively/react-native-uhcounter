@@ -21,7 +21,7 @@ _PLEASE NOTE: It is important that this app be developed with React Native becau
 * URL: http://api.reactnatively.venny.co/v1/
 * endpoint: /quotes
 
-Explore the API a bit more via (Postman collection|https://documenter.getpostman.com/view/2396336/RWToQdmz)
+Explore the API a bit more via [Postman collection](https://documenter.getpostman.com/view/2396336/RWToQdmz)
 
 |Key|Value (Example)|Description|
 |-|-|-|
