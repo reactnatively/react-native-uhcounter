@@ -12,10 +12,10 @@ _PLEASE NOTE: It is important that this app be developed with React Native becau
 
 |User Action|View|Priority|
 |-|-|-|
-|User register|<img src="https://github.com/reactnatively/react-uhcounter/blob/master/uhcounter-register.png" width="150">|Medium|
-|User login|<img src="https://github.com/reactnatively/react-uhcounter/blob/master/uhcounter-login.png" width="150">|Medium|
-|Without location optin|<img src="https://github.com/reactnatively/react-uhcounter/blob/master/uhcounter-home-withoutlocationoptin.png" width="150">|Critical|
-|With location optin|<img src="https://github.com/reactnatively/react-uhcounter/blob/master/uhcounter-home-withlocationoptin.png" width="150">|Critical|
+|User register|<img src="https://github.com/reactnatively/react-uhcounter/blob/master/assets/uhcounter-register.png" width="150">|Medium|
+|User login|<img src="https://github.com/reactnatively/react-uhcounter/blob/master/assets/uhcounter-login.png" width="150">|Medium|
+|Without location optin|<img src="https://github.com/reactnatively/react-uhcounter/blob/master/assets/uhcounter-home-withoutlocationoptin.png" width="150">|Critical|
+|With location optin|<img src="https://github.com/reactnatively/react-uhcounter/blob/master/assets/uhcounter-home-withlocationoptin.png" width="150">|Critical|
 
 ## React Natively API
 * URL: http://api.reactnatively.venny.co/v1/
