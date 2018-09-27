@@ -45,3 +45,5 @@ This is 1 of 4 React Natively mini projects that are meant to be stand alone app
 - React Native (v0.56)
 
 What's expected is 4 separate, independent code bundles that successfully build Android and iOS binaries. All dependencies must be clearly identified.
+
+Thanks!
